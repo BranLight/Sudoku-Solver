@@ -1,7 +1,7 @@
 '''
     -SUDOKU SOLVER-
 
-    Author: u/nodnarbiter
+    Author: BranLight
     Date: 1/18/2021
     Functionality: 
         For any given valid Sudoku puzzle this
